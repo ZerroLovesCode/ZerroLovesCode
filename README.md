@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Zee</h1>
 <h3 align="center">Developer and life long learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerrolovescode" alt="zerrolovescode" /></a> </p>
-
 - 🔭 I’m currently working on **A rock-paper-scissor project**
 
 - 🌱 I’m currently learning **Full Stack web development and Android development**

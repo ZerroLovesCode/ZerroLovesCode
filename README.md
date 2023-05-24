@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Zee</h1>
 <h3 align="center">Developer and life long learner</h3>
 
-- 🔭 I’m currently working on **A rock-paper-scissor project**
+- 🔭 I’m currently working on **Full stack development projects**
 
 - 🌱 I’m currently learning **Full Stack web development and Android development**
 
